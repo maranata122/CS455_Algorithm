@@ -13,7 +13,7 @@
 ### The First Scenario Without wheel (Legged Robot) on a Clear Route (Street, Highway): 
 
 #### When there is a clear route to follow, we start from the opening or the beginning of the street and go move through the maze or in the real-life applications on the street once cell at a time. 
-![image](https://user-images.githubusercontent.com/58325718/206446384-8a5aac80-ad9c-41a6-af51-6d9d631ae683.png)
+
  
 
  
