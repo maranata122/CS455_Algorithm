@@ -58,6 +58,7 @@ On clear route we have less trial and error to reach the desired destination
 ## Run Program: 
 
 #### https://github.com/maranata122/CS455_Algorithm/blob/main/Depth%20First%20Search/Maze/dfs.py 
+#### https://github.com/maranata122/CS455_Algorithm/blob/main/Breadth%20First%20Search/Maze/bfs.py
 
 ### Used Environment: 
 
@@ -69,6 +70,7 @@ JDoodle
 
 ## Output: 
 ![image](https://user-images.githubusercontent.com/58325718/206446384-8a5aac80-ad9c-41a6-af51-6d9d631ae683.png)
+![image](https://user-images.githubusercontent.com/58325718/206453824-9e56bf43-e727-4eab-bdec-0fd481a675a6.png)
 
 
  
