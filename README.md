@@ -1,11 +1,12 @@
 # CS455_Algorithm
 ## Introduction: 
-### This Project is a Demonstration of the manual process and python code implementation of using DFS on a real-life application such as Robots. 
+### This Project is a Demonstration of the manual process and python code implementation of using DFS and BFS on a real-life application such as Robots. 
 ![This is an image](https://spectrum.ieee.org/media-library/a-bright-orange-four-legged-robotic-dog-stands-on-a-grave-patch-at-the-top-of-a-mountain-with-swiss-countryside-in-the-backgroun.jpg?id=28864412&width=1200&height=708)
 
-#### The applications DFS – Depth First Search can be performed on the Legged Robot moving on a street. 
+#### The applications DFS – Depth First Search and BFS - Breadth First Search can be performed on the Legged Robot moving on a street. 
 
-#### Depth First Search (DFS) algorithm traverses a graph in a depth ward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration. 
+#### Depth First Search (DFS) algorithm traverses a graph in a depth ward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration. Breadth First Search (BFS) algorithm traverses a graph in a breadthward motion and uses a queue to remember to get the next vertex to start a search, when a dead end occurs in any iteration
+
 
 #### We have this scenarios: 
 
